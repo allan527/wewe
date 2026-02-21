@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Poppins:wght@400;600&family=Sora:wght@400;600&display=swap');
+@import "tailwindcss";
+
+:root { font-family: Inter, Poppins, Sora, sans-serif; }
+* { box-sizing: border-box; }
+body { margin: 0; }
